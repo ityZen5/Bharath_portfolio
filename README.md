@@ -1,6 +1,14 @@
-# React + Vite
+# Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my personal portfolio website repository! This website showcases my journey, skills, and projects, highlighting my accomplishments as a graduate from NIT Calicut and my passion for web development
+
+# Features
+
+Responsive Design: Fully optimized for desktops, tablets, and mobile devices.
+Project Gallery: A detailed showcase of my projects with descriptions, technologies used.
+About Section: Information about my education and achievements.
+Contact Section: Easy-to-use form for reaching out to me
+
 
 Currently, two official plugins are available:
 
