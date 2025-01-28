@@ -32,8 +32,8 @@ export const PROJECTS = [
     title: "Expense Tracker App",
     image: project4,
     description:
-      "A platform for creating and publishing blog posts, with features like rich text editing, commenting, and user profiles.",
-    technologies: ["HTML", "CSS", "Vue.js", "Express", "mySQL"],
+      "a MERN stack-based web application designed to help users manage their expenses effectively. With features like user authentication via Firebase, the app allows users to securely log in, track their income and expenses, and view their financial data through dynamic charts and summaries. The responsive design ensures a smooth experience on any device, making financial management accessible anytime, anywhere.",
+    technologies: ["HTML", "CSS", "React", "Express", "MongoDB", "Node.js"],
   },
 ];
 
